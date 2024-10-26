@@ -30,7 +30,7 @@ Heat maps can be a valuable tool for game developers, offering insights into pla
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/heat-map-simulation.git
+      git clone https://github.com/sahilatri-91/HeatMap_shader.git
     ```
 2. Open the project in Unity.
 3. Navigate to the scene containing the heat map simulation.
