@@ -1,4 +1,4 @@
-# Heat Map Simulation Using Shader Programming in Unity
+# Heat Map shader in Unity
 
 This project demonstrates a heat map simulation created using Shader Programming in Unity. The heat map visualizes varying intensity levels using a gradient of colors, ranging from cool blues to warm reds, representing low to high values. The shaders provide a dynamic and interactive visualization that can be utilized in various applications, especially in game development.
 
