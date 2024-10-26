@@ -4,7 +4,7 @@ This project demonstrates a heat map simulation created using Shader Programming
 
 ## 📽️ Video Demo
 
-[![Watch the video]((https://www.linkedin.com/posts/sahil-atri-279940263_unity3d-shaderprogramming-computergraphics-activity-7255993373709238272-VDLR?utm_source=share&utm_medium=member_desktop))
+[![Watch the video]([https://www.linkedin.com/posts/sahil-atri-279940263_unity3d-shaderprogramming-computergraphics-activity-7255993373709238272-VDLR?utm_source=share&utm_medium=member_desktop])
 
 ## 🎮 Use in Game Development
 
